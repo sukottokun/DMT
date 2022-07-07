@@ -51,7 +51,7 @@ const textNodes = [
         nextText: 2
       },
       {
-        text: 'No, it\'s drupal 7.',
+        text: 'No, it\'s Drupal 7.',
         nextText: 8
       }
     ]
